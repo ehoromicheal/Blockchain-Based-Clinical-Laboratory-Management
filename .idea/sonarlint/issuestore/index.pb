@@ -7,3 +7,5 @@ N
 tests/lab-verification.test.ts,d/d/dd3216c040a10c27fde033bd4b771e9adcee13e4
 O
 contracts/testing-protocol.clar,a/e/ae6f30b4aca35bea72819c3b9ad16efe73834ffe
+N
+tests/testing-protocol.test.ts,2/2/2212ba16b1718051086fead380c4d294ded8aa4a
